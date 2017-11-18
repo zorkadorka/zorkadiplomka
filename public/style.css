@@ -1,0 +1,33 @@
+.jumbotron{
+    padding: 20px;
+}
+
+.graph-container .tick line{
+    stroke: #ffffff;
+}
+
+.svg-container{
+    display: inline-block;
+    margin: 30px 0px;
+}
+
+.label-container{
+    margin: 10px;
+}
+
+#selectContainer{
+    display: inline-block;
+}
+
+.background{
+    fill: white;
+}
+
+.my-tooltip{
+    position: absolute;
+    top: 250px;
+    left: 230px;
+    font-size: 25px;
+    font-family: monospace;
+    z-index: 100;
+}

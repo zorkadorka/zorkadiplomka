@@ -1,0 +1,20 @@
+{
+  "name": "dp_results",
+  "version": "1.0.0",
+  "description": "See my DP results",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "bootstrap-select": "^1.12.4",
+    "cookie-parser": "latest",
+    "express": "latest",
+    "multer": "latest",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "zorka",
+  "license": "ISC"
+}
